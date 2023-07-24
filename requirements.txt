@@ -1,0 +1,5 @@
+langchain
+Pillow
+streamlit
+streamlit_chat
+
